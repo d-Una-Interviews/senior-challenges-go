@@ -6,7 +6,7 @@
 
 El objetivo de este proyecto será evaluar las habilidades del candidato. Las condiciones del challenge son presentadas solo como guias las cuales un desarrollador experimentado debe escoger como resolverlos con la tecnologia, patron o diseño de su preferencia.
 
-Recuerda que no tenemos un timeline, reclutamos on a rolling basis, pero estaremos moviendo a personas a la siguiente fase la primera semana de enero.
+Recuerda que no tenemos un timeline, reclutamos on a rolling basis. Recuerda de actualizar el form que recibiste en tu correo cuando termines la prueba. Al completar la prueba tecinca avisanos por aca (usa el mismo correo): https://airtable.com/shrfLtBYqMg3jY3dc
 
 ## 🦶 Pasos
 - Crear un repo en github con el siguiente [link](https://classroom.github.com/a/6Jhgrl0w).
